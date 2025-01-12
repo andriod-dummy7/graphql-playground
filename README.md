@@ -69,3 +69,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # graphql-playground
+
+**#Commands** : 
+	> npx create-react-app graphql-playground 
+	> amplify init 
+	> amplify add api 
+	> After defining your schema Type in VS Code run the below script to push your changes to AWS cloud.
+	> amplify push -y
+	> amplify console api 
